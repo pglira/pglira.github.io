@@ -1,3 +1,5 @@
-# Publications
+---
+title: "Welcome to my blog"
+---
 
-foo
+I'm glad you are here. I plan to talk about ...
