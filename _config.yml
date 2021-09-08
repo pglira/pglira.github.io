@@ -1,5 +1,9 @@
 theme: minima
 author: p.glira
 description: blog
-github_username:  pglira
+github_username: pglira
 title: p.glira
+header_pages:
+  - index.md
+  - publications.md
+  - code.md
