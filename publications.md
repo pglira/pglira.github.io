@@ -1,5 +1,7 @@
 ---
+layout: page
 title: "My publications"
+permalink: /publications
 ---
 
 # First author publications
