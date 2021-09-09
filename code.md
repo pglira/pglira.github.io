@@ -10,6 +10,8 @@ I have also contributed to the awesome [OPALS software](https://opals.geo.tuwien
 
 Some Github repositories that might be of interest are:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=awesome-photogrammetry&repo=awesome-photogrammetry)](https://github.com/awesome-photogrammetry/awesome-photogrammetry)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=simpleICP)](https://github.com/pglira/simpleICP)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=Point_cloud_tools_for_Matlab)](https://github.com/pglira/Point_cloud_tools_for_Matlab)
