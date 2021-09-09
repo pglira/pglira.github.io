@@ -4,4 +4,4 @@ title: "Code"
 permalink: /code
 ---
 
-# Open source code
+You can find my open source projects [here](https://github.com/pglira) on Github.
