@@ -51,7 +51,7 @@ A somewhat more structured (but possibly a bit outdated) overview follows here:
 - **Hybrid orientation of lidar point clouds and aerial images (2018)**
   - *Supervisor*: Pfeifer N., TU Wien
   - *Reviewer*: Haala N., University of Stuttgart and Rottensteiner F., University of Hanover
-  - *Links*: [(a)](https://repositum.tuwien.at/handle/20.500.12708/1953)
+  - *Links*: [(a)](https://repositum.tuwien.at/handle/20.500.12708/1953), [(b)](https://github.com/pglira/publications/blob/21f3a0eb08027d6aba5ff8b7210866006c9371a4/GLIRA%202018%20-%20DISS%20-%20HYBRID%20ORIENTATION%20OF%20LIDAR%20POINT%20CLOUDS%20AND%20AERIAL%20IMAGES%20SMALL.pdf)
 
 ## First author posters
 
