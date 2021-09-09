@@ -44,6 +44,7 @@ A somewhat more structured (but possibly a bit outdated) overview follows here:
   - *Review*: double-blind peer review
   - *DOI*:[https://doi.org/10.5194/isprsannals-II-3-W5-73-2015](https://doi.org/10.5194/isprsannals-II-3-W5-73-2015)
   - *Links*: [(1)](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-3-W5/73/2015/), [(2)](https://github.com/pglira/publications/blob/6c245aedcb9e0f055c360df830adfa515d3f3b60/GLIRA%20ET%20AL.%202015%20-%20GEOSPATIAL%20WEEK%20-%20RIGOROUS%20STRIP%20ADJUSTMENT%20OF%20AIRBORNE%20LASERSCANNING%20DATA%20BASED%20ON%20THE%20ICP%20ALGORITHM.pdf)
+  - *Award*: Hansa-Luftbild-Preis 2016
 
 ## My Ph.D. thesis
 
@@ -52,9 +53,16 @@ A somewhat more structured (but possibly a bit outdated) overview follows here:
   - *Reviewer*: Haala N., University of Stuttgart and Rottensteiner F., University of Hanover
   - *Links*: [(a)](https://repositum.tuwien.at/handle/20.500.12708/1953)
 
+## First author posters
+
+- **Accuracy analysis of height difference models derived from terrestrial laser scanning point clouds (2014)**
+  - *Authors*: Glira P., Briese C., Pfeifer N., Dusik J., Hilger L., Neugirg F., Baewert H.
+  - *Published in*: Geophysical Research Abstracts, Vol. 16, EGU2014-15987, 2014
+  - *Links*: [(a)](https://github.com/pglira/publications/blob/b53190ace4ee2fc9b5b220b205f7fa93e33814da/GLIRA%202014%20-%20EGU%20-%20POSTER%20-%20ACCURACY%20ANALYSIS%20OF%20HEIGHT%20DIFFERENCE%20MODELS%20DERIVED%20FROM%20TERRESTRIAL%20LASER%20SCANNING%20POINT%20CLOUDS.pdf), [(b)](https://github.com/pglira/publications/blob/2df5ea42a4f3428ceef274a92232f84f91b90381/GLIRA%202014%20-%20EGU%20-%20ACCURACY%20ANALYSIS%20OF%20HEIGHT%20DIFFERENCE%20MODELS%20DERIVED%20FROM%20TERRESTRIAL%20LASER%20SCANNING%20POINT%20CLOUDS.pdf)
+  - *Award*: Outstanding Student Poster Award 2014
+
 ## Todo
 
 - Add co-author papers
-- Add poster
 - Add talks
 - Add patents
