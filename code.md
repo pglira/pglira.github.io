@@ -8,7 +8,7 @@ You can find all my open source projects [here](https://github.com/pglira) on Gi
 
 I have also contributed to the awesome [OPALS software](https://opals.geo.tuwien.ac.at/html/stable/index.html) in the past, specifically the modules [opalsICP](https://opals.geo.tuwien.ac.at/html/stable/ModuleICP.html), [opalsStripAdjust](https://opals.geo.tuwien.ac.at/html/stable/ModuleStripAdjust.html), and [opalsView](https://opals.geo.tuwien.ac.at/html/stable/ModuleView.html).
 
-Some repositories that might be of interest are:
+Some Github repositories that might be of interest are:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=simpleICP)](https://github.com/pglira/simpleICP)
 
