@@ -36,7 +36,19 @@ These days I mostly code in:
 - ![alt text][100percent] C++
 - ![alt text][080percent] Matlab/Octave
 - ![alt text][060percent] Python
+- ![alt text][040percent] Bash
 - ![alt text][020percent] Julia
+
+Technologies and tools that I use are:
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-ROS-informational?style=flat-square&logo=ros&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-CMake-informational?style=flat-square&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PDAL-informational?style=flat-square&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-CLion-informational?style=flat-square&logo=clion&logoColor=white&color=2bbc8a)
+
+See my [![](https://img.shields.io/badge/Repo-dotfiles-informational?style=flat-square&logo=github&logoColor=white&color=2bbc8a)](https://github.com/pglira/dotfiles) for an overview about the main programs that I use.
 
 And finally my research interests are:
 
