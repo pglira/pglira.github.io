@@ -10,18 +10,18 @@ I have also contributed to the awesome [OPALS software](https://opals.geo.tuwien
 
 Some repositories that might be of interest are:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=simpleICP)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=simpleICP)](https://github.com/pglira/simpleICP)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=Point_cloud_tools_for_Matlab)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=Point_cloud_tools_for_Matlab)](https://github.com/pglira/Point_cloud_tools_for_Matlab)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=robot-mapping-exercises-by-stachniss)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=robot-mapping-exercises-by-stachniss)](https://github.com/pglira/robot-mapping-exercises-by-stachniss)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=cloudcompare-sbf-io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=cloudcompare-sbf-io)](https://github.com/pglira/cloudcompare-sbf-io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=dmenu-scripts)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=dmenu-scripts)](https://github.com/pglira/dmenu-scripts)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=dotfiles)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=dotfiles)](https://github.com/pglira/dotfiles)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=snippets)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=snippets)](https://github.com/pglira/snippets)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=archiveImages)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=archiveImages)](https://github.com/pglira/archiveImages)
