@@ -20,7 +20,7 @@
 
 title: p.glira
 email: philipp.glira@ait.ac.at
-description:
+description: A blog about my research and software engineering activities
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  pglira
