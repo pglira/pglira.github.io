@@ -46,7 +46,7 @@ A somewhat more structured (but possibly a bit outdated) overview follows here:
   - *Keywords*: ![](https://img.shields.io/badge/-orientation-blue) ![](https://img.shields.io/badge/-calibration-blue) ![](https://img.shields.io/badge/-georeferencing-blue) ![](https://img.shields.io/badge/-ICP algorithm-blue)
   - *Published in*: ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci., II-3/W5, 73–80, 2015
   - *Review*: ![](https://img.shields.io/badge/-double--blind peer--review-green)
-  - *DOI*:[https://doi.org/10.5194/isprsannals-II-3-W5-73-2015](https://doi.org/10.5194/isprsannals-II-3-W5-73-2015)
+  - *DOI*: [https://doi.org/10.5194/isprsannals-II-3-W5-73-2015](https://doi.org/10.5194/isprsannals-II-3-W5-73-2015)
   - *Links*: [(1)](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-3-W5/73/2015/), [(2)](https://github.com/pglira/publications/blob/6c245aedcb9e0f055c360df830adfa515d3f3b60/GLIRA%20ET%20AL.%202015%20-%20GEOSPATIAL%20WEEK%20-%20RIGOROUS%20STRIP%20ADJUSTMENT%20OF%20AIRBORNE%20LASERSCANNING%20DATA%20BASED%20ON%20THE%20ICP%20ALGORITHM.pdf)
   - *Award*: Hansa-Luftbild-Preis 2016
 
