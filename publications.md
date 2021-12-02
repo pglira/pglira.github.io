@@ -10,13 +10,12 @@ A somewhat more structured (but possibly a bit outdated) overview follows here:
 
 ## First author papers
 
-- **Photogrammetric 3D mobile mapping of rail tracks (2021)**
+- **Photogrammetric 3D mobile mapping of rail tracks (2022)**
   - *Authors*: Glira, P., Ölsböck K., Kadiofsky T., Schörghuber M., Weichselbaum J., Zinner C., Fel L.
   - *Keywords*: ![](https://img.shields.io/badge/-photogrammetry-blue) ![](https://img.shields.io/badge/-mobile mapping-blue) ![](https://img.shields.io/badge/-least squares adjustment-blue) ![](https://img.shields.io/badge/-calibration-blue)
-  - *Published in*: ISPRS Journal of Photogrammetry and Remote Sensing
+  - *Published in*: ISPRS Journal of Photogrammetry and Remote Sensing 183 (2022) 352–362
   - *Video*: [https://youtu.be/eRpHjGr49A8](https://youtu.be/eRpHjGr49A8)
   - *Review*: ![](https://img.shields.io/badge/-single--blind peer--review-green)
-  - *Status*: accepted, not published
 
 - **Hybrid orientation of airborne lidar point clouds and aerial images (2019)**
   - *Authors*: Glira, P., Pfeifer, N., Mandlburger, G.
