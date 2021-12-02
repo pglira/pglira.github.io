@@ -63,8 +63,8 @@ And finally my research interests are:
 - Temporal change detection
 - 3D geometric modeling
 
-[100percent]: ../images/100.png "a"
-[080percent]: ../images/080.png "a"
-[060percent]: ../images/060.png "a"
-[040percent]: ../images/040.png "a"
-[020percent]: ../images/020.png "a"
+[100percent]: ../assets/images/100.png "a"
+[080percent]: ../assets/images/080.png "a"
+[060percent]: ../assets/images/060.png "a"
+[040percent]: ../assets/images/040.png "a"
+[020percent]: ../assets/images/020.png "a"
