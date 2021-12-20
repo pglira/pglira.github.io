@@ -12,4 +12,4 @@ Currently, an implementation is available for C++, Julia, Matlab, Octave, and Py
 What's new?
 
 - The python implementation of the simpleICP algorithm is now available on PyPi, see [here](https://pypi.org/project/simpleicp)
-- The implementations in julia, matlab, and python support now partial overlap of the point clouds to be aligned
+- The implementations in julia, matlab, octave, and python support now partial overlap of the point clouds to be aligned
