@@ -34,10 +34,11 @@ whereby I use these sensor types the most:
 These days I mostly code in:
 
 - ![alt text][100percent] C++
-- ![alt text][080percent] Matlab/Octave
-- ![alt text][060percent] Python
+- ![alt text][080percent] Python
+- ![alt text][060percent] Matlab/Octave
 - ![alt text][040percent] Bash
 - ![alt text][020percent] Julia
+- ![alt text][020percent] Lua
 
 Technologies and tools that I use are:
 
