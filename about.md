@@ -48,6 +48,7 @@ Technologies and tools that I use are:
 ![](https://img.shields.io/badge/Tools-CMake-informational?style=flat-square&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-CLion-informational?style=flat-square&logo=clion&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat-square&logo=VIM&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PDAL-informational?style=flat-square&logoColor=white&color=2bbc8a)
 
 See my [![](https://img.shields.io/badge/Repo-dotfiles-informational?style=flat-square&logo=github&logoColor=white&color=2bbc8a)](https://github.com/pglira/dotfiles) for an overview about the main programs that I use.
