@@ -17,14 +17,14 @@ For 3D sensing of the environment, lidar sensors and stereo cameras are mostly u
 
 ### Selected Figures
 
-![alt text](assets/images/2022-03-28-new-radar-3d-mapping-paper-img1.png)
+![alt text](2022-03-28-new-radar-3d-mapping-paper-img1.png)
 
 Concept of radar signal decomposition into a series of Gaussian distribution functions.
 
-![alt text](assets/images/2022-03-28-new-radar-3d-mapping-paper-img2.png)
+![alt text](2022-03-28-new-radar-3d-mapping-paper-img2.png)
 
 Left: elevation grid map derived from the 3D radar point cloud as hillshade. Center: additional grid map layers derived from the 3D radar point cloud. Right: High-resolution lidar data as reference with trajectory (red).
 
-![alt text](assets/images/2022-03-28-new-radar-3d-mapping-paper-img3.png)
+![alt text](2022-03-28-new-radar-3d-mapping-paper-img3.png)
 
 The generated 3D radar point cloud with additional point attributes. Bottom: Lidar reference point cloud generated with terrestrial laser scanning (TLS), as well as the trajectory of the vehicle (red line).
