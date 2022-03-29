@@ -5,7 +5,7 @@ date: 2022-03-28 12:00:00 +0200
 categories: paper radar
 ---
 
-We've published a new paper with the title "3D Mobile Mapping of the Environment using Imaging Radar Sensors" at the [RadarConf2022](https://www.radarconf2022.org).
+We've published a new paper with the title "3D Mobile Mapping of the Environment using Imaging Radar Sensors" at the [2022 IEEE Radar Conference, New York City, NY, USA](https://www.radarconf2022.org).
 
 ### Authors
 
