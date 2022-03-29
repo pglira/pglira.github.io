@@ -20,8 +20,8 @@ My research fields are mainly:
 
 - ![alt text][100percent] Lidar
 - ![alt text][080percent] Photogrammetry
+- ![alt text][060percent] Robotics
 - ![alt text][040percent] Computer Vision
-- ![alt text][040percent] Robotics
 
 whereby I use these sensor types the most:
 
@@ -42,12 +42,15 @@ These days I mostly code in:
 
 Technologies and tools that I use are:
 
+<!-- find icons here: https://github.com/badges/shields/blob/master/doc/logos.md -->
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-ROS-informational?style=flat-square&logo=ros&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-ROS2-informational?style=flat-square&logo=ros&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-CMake-informational?style=flat-square&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PDAL-informational?style=flat-square&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Qt-informational?style=flat-square&logo=Qt&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Webots-informational?style=flat-square&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-CLion-informational?style=flat-square&logo=clion&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat-square&logo=VIM&logoColor=white&color=2bbc8a)
@@ -58,6 +61,7 @@ See my [![](https://img.shields.io/badge/Repo-dotfiles-informational?style=flat-
 And finally my research interests are:
 
 - Least squares adjustments
+- Kalman filtering
 - Lidar strip adjustment (LSA)
 - Bundle block adjustment (BBA)
 - Integration of LSA and BBA
