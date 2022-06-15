@@ -7,6 +7,26 @@
             "label": "serve_pglira.sh",
             "type": "shell",
             "command": "${workspaceFolder}/serve_pglira.sh"
+        },
+        {
+            "label": "pdf-to-thumbnail-mosaic.sh",
+            "type": "shell",
+            "command": "${workspaceFolder}/pdf-to-thumbnail-mosaic.sh \"${input:pdf_filepath}\" \"${input:mosaic_filepath}\"",
+            "problemMatcher": []
+        }
+    ],
+    "inputs": [
+        {
+            "id": "pdf_filepath",
+            "description": "pdf filepath:",
+            "default": "",
+            "type": "promptString"
+        },
+        {
+            "id": "mosaic_filepath",
+            "description": "mosaic filepath:",
+            "default": "",
+            "type": "promptString"
         }
     ]
 }
