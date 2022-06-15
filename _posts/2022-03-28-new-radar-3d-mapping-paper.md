@@ -7,6 +7,10 @@ categories: paper radar
 
 We've published a new paper with the title "3D Mobile Mapping of the Environment using Imaging Radar Sensors" at the [2022 IEEE Radar Conference, New York City, NY, USA](https://www.radarconf2022.org).
 
+![alt text](/assets/images/2022-03-28-new-radar-3d-mapping-paper-img4.png)
+
+Download [here](https://ieeexplore.ieee.org/abstract/document/9763906/).
+
 ### Authors
 
 Philipp Glira, Christoph Weidinger, Thomas Kadiofsky, Wolfgang Pointner, Katharina Ölsböck, Christian Zinner, Masrur Doostdar
