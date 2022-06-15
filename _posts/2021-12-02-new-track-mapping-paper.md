@@ -7,6 +7,8 @@ categories: paper photogrammetry
 
 We've published a new paper with the title "Photogrammetric 3D mobile mapping of rail tracks" in the "ISPRS Journal of Photogrammetry and Remote Sensing".
 
+![alt text](/assets/images/2021-12-02-new-track-mapping-paper-img1.png)
+
 Link: [https://authors.elsevier.com/sd/article/S0924271621002380](https://authors.elsevier.com/sd/article/S0924271621002380)
 
 A video showing some results of the paper can be found on YouTube:
