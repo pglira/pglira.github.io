@@ -19,5 +19,5 @@ mkdir -p "${thumbnails_tmp_dirpath}"
 
 pdftoppm -png "${pdf_filepath}" "${thumbnails_filepath}"
 
-montage -geometry "15%x15%+5+5>" "${thumbnails_tmp_dirpath}/*.png" -frame 4 -tile 4x -background none -shadow "${mosaic_filepath}"
+montage -geometry "15%x15%+10+10>" "${thumbnails_tmp_dirpath}/*.png" -frame 4 -tile 4x -background none -shadow "${mosaic_filepath}"
 convert -trim +repage "${mosaic_filepath}" "${mosaic_filepath}"
