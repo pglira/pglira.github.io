@@ -86,6 +86,11 @@ A somewhat more structured (but possibly a bit outdated) overview follows here:
   - *Links*: [(a)](https://github.com/pglira/publications/blob/b53190ace4ee2fc9b5b220b205f7fa93e33814da/GLIRA%202014%20-%20EGU%20-%20POSTER%20-%20ACCURACY%20ANALYSIS%20OF%20HEIGHT%20DIFFERENCE%20MODELS%20DERIVED%20FROM%20TERRESTRIAL%20LASER%20SCANNING%20POINT%20CLOUDS.pdf), [(b)](https://github.com/pglira/publications/blob/2df5ea42a4f3428ceef274a92232f84f91b90381/GLIRA%202014%20-%20EGU%20-%20ACCURACY%20ANALYSIS%20OF%20HEIGHT%20DIFFERENCE%20MODELS%20DERIVED%20FROM%20TERRESTRIAL%20LASER%20SCANNING%20POINT%20CLOUDS.pdf)
   - *Award*: Outstanding Student Poster Award 2014
 
+- **Continuous Target-free Extrinsic Calibration of a Multi-Sensor System from a Sequence of Static Viewpoints (2022)**
+  - *Authors*: Glira P., Weidinger C., Weichselbaum J.
+  - *Published in*: Proceedings of 2022 Austrian Robotics Workshop, Villach, AUT
+  - *Links*: [(a)](https://github.com/pglira/publications/blob/main/GLIRA%20ET%20AL.%202022%20-%20AUSTRIAN%20ROBOTICS%20WORKSHOP%20-%20POSTER%20-%20CONTINUOUS%20TARGET-FREE%20EXTRINSIC%20CALIBRATION%20OF%20A%20MULTI-SENSOR%20SYSTEM%20FROM%20A%20SEQUENCE%20OF%20STATIC%20VIEWPOINTS.pdf)
+
 ## Todo
 
 - Add co-author papers
