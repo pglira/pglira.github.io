@@ -6,12 +6,12 @@
         {
             "label": "serve_pglira.sh",
             "type": "shell",
-            "command": "${workspaceFolder}/serve_pglira.sh"
+            "command": "${workspaceFolder}/scripts/serve_pglira.sh"
         },
         {
             "label": "pdf-to-thumbnail-mosaic.sh",
             "type": "shell",
-            "command": "${workspaceFolder}/pdf-to-thumbnail-mosaic.sh \"${input:pdf_filepath}\" \"${input:mosaic_filepath}\"",
+            "command": "${workspaceFolder}/scripts/pdf-to-thumbnail-mosaic.sh \"${input:pdf_filepath}\" \"${input:mosaic_filepath}\"",
             "problemMatcher": []
         }
     ],
