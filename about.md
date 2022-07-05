@@ -69,7 +69,8 @@ And finally my research interests are:
 - Integration of LSA and BBA
 - Multi-sensor SLAM
 - Sensor calibration
-- Point cloud registration, e.g. ICP
+- Rigid point cloud registration
+- Non-rigid point cloud registration
 - 3D mapping of the environment
 - Temporal change detection
 - 3D geometric modeling
