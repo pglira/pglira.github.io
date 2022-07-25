@@ -9,7 +9,7 @@ We've published a new paper with the title "Continuous Target-free Extrinsic Cal
 
 ![alt text](/assets/images/2022-06-15-new-extrinsic-calibration-paper-img1.png)
 
-Download [here](https://github.com/pglira/publications/blob/main/GLIRA%20ET%20AL.%202022%20-%20AUSTRIAN%20ROBOTICS%20WORKSHOP%20-%20CONTINUOUS%20TARGET-FREE%20EXTRINSIC%20CALIBRATION%20OF%20A%20MULTI-SENSOR%20SYSTEM%20FROM%20A%20SEQUENCE%20OF%20STATIC%20VIEWPOINTS.pdf).
+Download [here](http://arxiv.org/abs/2207.03785).
 
 ### Authors
 

@@ -15,7 +15,7 @@ A somewhat more structured (but possibly a bit outdated) overview follows here:
   - *Keywords*: ![](https://img.shields.io/badge/-calibration-blue) ![](https://img.shields.io/badge/-robotics-blue) ![](https://img.shields.io/badge/-least squares adjustment-blue)
   - *Published in*: Proceedings of 2022 Austrian Robotics Workshop, Villach, AUT
   - *Review*: ![](https://img.shields.io/badge/-double--blind peer--review-green)
-  - *Links*: [(a)](https://github.com/pglira/publications/blob/main/GLIRA%20ET%20AL.%202022%20-%20AUSTRIAN%20ROBOTICS%20WORKSHOP%20-%20CONTINUOUS%20TARGET-FREE%20EXTRINSIC%20CALIBRATION%20OF%20A%20MULTI-SENSOR%20SYSTEM%20FROM%20A%20SEQUENCE%20OF%20STATIC%20VIEWPOINTS.pdf), [(b)](https://github.com/pglira/publications/blob/main/GLIRA%20ET%20AL.%202022%20-%20AUSTRIAN%20ROBOTICS%20WORKSHOP%20-%20POSTER%20-%20CONTINUOUS%20TARGET-FREE%20EXTRINSIC%20CALIBRATION%20OF%20A%20MULTI-SENSOR%20SYSTEM%20FROM%20A%20SEQUENCE%20OF%20STATIC%20VIEWPOINTS.pdf)
+  - *Links*: [(a)](http://arxiv.org/abs/2207.03785), [(b)](https://github.com/pglira/publications/blob/main/GLIRA%20ET%20AL.%202022%20-%20AUSTRIAN%20ROBOTICS%20WORKSHOP%20-%20POSTER%20-%20CONTINUOUS%20TARGET-FREE%20EXTRINSIC%20CALIBRATION%20OF%20A%20MULTI-SENSOR%20SYSTEM%20FROM%20A%20SEQUENCE%20OF%20STATIC%20VIEWPOINTS.pdf)
 
 - **3D Mobile Mapping of the Environment using Imaging Radar Sensors (2022)**
   - *Authors*: Glira P., Weidinger C., Kadiofsky T., Pointner W., Ölsböck K., Zinner C., Doostdar M.
