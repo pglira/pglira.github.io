@@ -16,6 +16,10 @@ Some Github repositories that might be of interest are:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=Point_cloud_tools_for_Matlab)](https://github.com/pglira/Point_cloud_tools_for_Matlab)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AIT-Assistive-Autonomous-Systems&repo=3D_nonrigid_tricubic_pointcloud_registration)](https://github.com/AIT-Assistive-Autonomous-Systems/3D_nonrigid_tricubic_pointcloud_registration)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AIT-Assistive-Autonomous-Systems&repo=2D_nonrigid_tricubic_pointcloud_registration)](https://github.com/AIT-Assistive-Autonomous-Systems/2D_nonrigid_tricubic_pointcloud_registration)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=robot-mapping-exercises-by-stachniss)](https://github.com/pglira/robot-mapping-exercises-by-stachniss)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pglira&repo=cloudcompare-sbf-io)](https://github.com/pglira/cloudcompare-sbf-io)
